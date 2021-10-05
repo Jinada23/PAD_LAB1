@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fj6PCq7FCHjFEvA0S/ZJasDCweQGllqUf42NTpTS1QI8Htk0x3UkHj/13zanw/V2jySxytUnEVqBjboWV4hXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdumbrava\\source\\repos\\LAB1_PAD_PART2\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\grpc\\2.41.0\\grpc.2.41.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\grpc.core\\2.41.0\\grpc.core.2.41.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\grpc.core.api\\2.41.0\\grpc.core.api.2.41.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\grpc.net.client\\2.39.0\\grpc.net.client.2.39.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\grpc.net.common\\2.39.0\\grpc.net.common.2.39.0.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZ1OaB1V76/5VLsN8MC+AtjTGKlxXyAm/H/VcreDYYbHeGPDAfELp1T57E7MjEGwrNpl8qRafIacPnT0XA2z9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdumbrava\\source\\repos\\PAD\\PAD_LAB1\\Broker\\Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reXZkgm6kQdyElBMgTGtImwkTmXWf9mDGC3sWXcpc1hD30bah2Llwjfvc5dQUsN7M/IAm1ssPBXgkC46O9xUrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdumbrava\\source\\repos\\PAD\\PAD_LAB1\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdumbrava\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
